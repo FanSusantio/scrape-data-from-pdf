@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <br />
-<h3 align="center">Data extract and data wrangling project</h3>
+<h3 align="center">Data scraping and data cleansing project</h3>
 
   <p align="center">
 Using Python to scrape data from pdf and cleaning the data to produce a data dashboard.
@@ -32,7 +32,7 @@ Using Python to scrape data from pdf and cleaning the data to produce a data das
 ## About The Project
 News reports that Ambulance response times and request volumes have increased in Victoria. This project seeks to discover in which LGAs (local government areas) in  Victoria have experienced the most load increases response times. Decision makers can then use this data to allocate resources to focus on which areas that require most attention.
 
-I used Python to initially extract scanned data from the performance pdf reports, and then cleansed the data as it had produced inconsistent outputs. Using Python pandas I then configured the data into a format that could be used for building Tableau Dashboards. 
+I used Python to initially extract scanned data from the performance pdf reports, and then cleansed the data as it had produced inconsistent outputs. Using the pandas module, I then configured the data into a format that could be used for building Tableau Dashboards. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
