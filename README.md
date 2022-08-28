@@ -30,7 +30,10 @@ Using Python to scrape data from pdf and cleaning the data to produce a data das
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-News reports that Ambulance response times and request volumes have increased in Victoria. This project seeks to discover in which LGAs (local government areas) in  Victoria have experienced the most load increases response times. Decision makers can then use this data to allocate resources to focus on which areas that require most attention.   
+News reports that Ambulance response times and request volumes have increased in Victoria. This project seeks to discover in which LGAs (local government areas) in  Victoria have experienced the most load increases response times. Decision makers can then use this data to allocate resources to focus on which areas that require most attention.
+
+I used Python to initially extract scanned data from the performance pdf reports, and then cleansed the data as it had produced inconsistent outputs. Using Python pandas I then configured the data into a format that could be used for building Tableau Dashboards. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
